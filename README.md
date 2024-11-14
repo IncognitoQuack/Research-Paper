@@ -39,7 +39,7 @@ This repository is built on a foundation of integrity, ambition, and inclusivity
 ---
 
 ## License  
-This repository operates under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)** license. All contributions are freely accessible and shareable, with appropriate credit to their authors.
+This repository operates under the **[MIT](LICENSE)** license. All contributions are freely accessible and shareable, with appropriate credit to their authors.
 
 ---
 
