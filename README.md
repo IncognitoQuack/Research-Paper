@@ -39,7 +39,7 @@ This repository is built on a foundation of integrity, ambition, and inclusivity
 ---
 
 ## License  
-This repository operates under the **[MIT](LICENSE)** license. All contributions are freely accessible and shareable, with appropriate credit to their authors.
+This repository operates under the **[MIT](LICENSE.md)** license. All contributions are freely accessible and shareable, with appropriate credit to their authors.
 
 ---
 
@@ -50,4 +50,4 @@ At its heart, **Research-Papers** is about the pursuit of greatness. It’s abou
 
 ---
 
-*"To contribute here is to stand among the best."*  
+*"Sharing knowledge is planting seeds for a wiser, brighter future."*  
